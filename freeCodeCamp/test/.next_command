@@ -2,3 +2,4 @@ find -name footer.jpeg
 cd images
 cd ..
 mv images/footer.jpeg client/assets/images
+find
