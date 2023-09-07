@@ -51,3 +51,4 @@ cp --help
 cp --recursive website-boilerplate toms-website
 ls --color=auto
 find toms-website
+find website-boilerplate
