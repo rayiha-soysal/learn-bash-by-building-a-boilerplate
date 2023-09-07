@@ -9,3 +9,5 @@ find -name background.jpg
 rm images/background.jpg
 rmdir website/images
 rmdir images
+find
+ls --color=auto
