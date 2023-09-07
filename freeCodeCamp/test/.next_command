@@ -11,3 +11,4 @@ rmdir website/images
 rmdir images
 find
 ls --color=auto
+mkdir client/assets/icons
